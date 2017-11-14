@@ -1,9 +1,9 @@
 from test_project.models.TestUserModel import TestUserModel
 
-user = "qacalendarapi@gmail.com"
-password = "qwerty321"
-client_id = "355336847962-rqnjsi4jvtnvcnqr46s105vhmlgjhn7d.apps.googleusercontent.com"
-client_secret = "mRLZ8bKfC0oAcbFnW8oSigoX"
+user = "testpigpeppa@gmail.com"
+password = "Testpassword2017"
+client_id = "355336847962-7v5qhecc1l3p0hpcnmke9hjgpvgru97j.apps.googleusercontent.com"
+client_secret = "a4rSMhaHOpY9-LhhMkWn8lz3"
 client = TestUserModel(email=user,
                        password=password,
                        client_id=client_id,

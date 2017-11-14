@@ -1,0 +1,39 @@
+# Logs               #
+######################
+*.log
+
+# Python specific    #
+######################
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info
+
+# IDE specific  #
+###############################
+.project
+.pydevproject
+/.git
+/.settings
+.idea/
+test_project/*.pyc
+test_project/api_call_builders/*.pyc
+test_project/configurations/*.pyc
+test_project/models/*.pyc
+test_project/steps/*.pyc
+ghostdriver.log
+Result/
+framework/*.pyc
+framework/data_processors/*.pyc
+framework/interface_drivers/http/*.pyc
+framework/interface_drivers/*.pyc
+framework/support/*.pyc
+test_project/log/
+test_project/tests/log.html
+test_project/tests/output.xml
+test_project/tests/report.html
+.idea/google-calendar-api2.iml
+libspecs/
+red.xml
+
